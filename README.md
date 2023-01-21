@@ -1,2 +1,0 @@
-# Kambal-Test
-Test repository
